@@ -1,10 +1,15 @@
 # comparativas-erp
+
+ ---
+
 Índice
 
 Descripción de la práctica
+
 > Resumen
 
 Estructura del repositorio
+
 ```bash
   comparativas_erp/
   ├─ Readme.md
@@ -20,4 +25,4 @@ Documento principal: comparativas_erp.md
 - Casos en los que elegirías esos ERPs
 - Tabla Comparativa ERPs
 - Conclusiones para el caso concreto(Elección de ERP y porque)
-- Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible. 
+- Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.
