@@ -5,10 +5,12 @@ Descripción de la práctica
 > Resumen
 
 Estructura del repositorio
-comparativas_erp/
-├─ Readme.md
-├─ comparativas_erp.md
-└─ asset/
+```bash
+  comparativas_erp/
+  ├─ Readme.md
+  ├─ comparativas_erp.md
+  └─ asset/
+```
 
 Documento principal: comparativas_erp.md
 
