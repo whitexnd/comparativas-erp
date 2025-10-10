@@ -6,7 +6,7 @@
 
 Descripción de la práctica
 
-> Resumen
+> GreenGym Solutions es un gimnasio con filosofía eco ubicado en el centro de la ciudad, que ofrece clases colectivas (yoga, pilates, spinning), entrenamientos personales, alquiler de salas y venta de productos de nutrición y accesorios deportivos en una pequeña tienda. Además, organizan talleres de hábitos saludables y actividades en la comunidad.
 
 Estructura del repositorio
 
