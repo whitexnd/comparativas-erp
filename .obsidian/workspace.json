@@ -11,10 +11,14 @@
             "id": "9351ff2648ce2dc6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "comparativas_erp.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "comparativas_erp"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "comparativas_erp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de comparativas_erp"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "comparativas_erp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de comparativas_erp"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "comparativas_erp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de comparativas_erp"
             }
           },
           {
@@ -183,8 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99c55238222c16ab",
+  "active": "9351ff2648ce2dc6",
   "lastOpenFiles": [
+    "asset/Pasted image 20251010145248.png",
+    "asset/Pasted image 20251010145209.png",
+    "asset/Pasted image 20251010145150.png",
+    "asset/Pasted image 20251010144927.png",
+    "asset/Pasted image 20251010144815.png",
+    "asset/Pasted image 20251010144540.png",
+    "asset/Pasted image 20251010144513.png",
+    "asset/Pasted image 20251010144500.png",
+    "asset/Pasted image 20251010144226.png",
+    "asset/Pasted image 20251010144209.png",
+    "asset/Pasted image 20251010144155.png",
+    "Sin título.md",
     "comparativas_erp.md",
     "asset"
   ]
